@@ -2,7 +2,7 @@
  *  
  *  https://www.instructables.com/PICO-MIDI-SysEx-Patcher/
  *  
- *  by Barito 2023 (last update 17 feb. 2023)
+ *  by Barito 2023 (last update 23 feb. 2023)
  */
 
 #include <LiquidCrystal.h>
