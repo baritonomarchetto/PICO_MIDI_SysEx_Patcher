@@ -1,6 +1,6 @@
 /*  Pico Sysex MIDI Programmer
  *  
- *  LINK A INSTRUCTABLE
+ *  https://www.instructables.com/PICO-MIDI-SysEx-Patcher/
  *  
  *  by Barito 2023 (last update 17 feb. 2023)
  */
